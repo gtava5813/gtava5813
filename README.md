@@ -2,7 +2,8 @@
 - 👀 I’m interested in the future
 - 
 - 💞️ I’m always looking to collaborate on different projects. 
-- 📫 How to reach me nemo@gmx.us
+- 📫 How to reach me 
+- https://www.linkedin.com/in/golvis-tavarez-800771178/
 
 <!---
 gtava5813/gtava5813 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
