@@ -4,6 +4,7 @@
 - I'm always looking to collaborate on different projects. 
 - How to reach me 
 - https://www.linkedin.com/in/gjtavarez
+- golvis@eyelid.ai | golvis@geekspeaker.com | golvist@kansaka.io
 
 <!---
 gtava5813/gtava5813 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
